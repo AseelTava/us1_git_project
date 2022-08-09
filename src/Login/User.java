@@ -5,4 +5,6 @@ public class User {
     // user fields
 
 // two much
+
+    // final changes
 }
